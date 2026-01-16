@@ -23,7 +23,6 @@ const ProductCard = ({ product }: ProductCardProps) => {
             width={600}
             height={800}
             className="w-full h-auto object-cover aspect-[3/4] transition-transform duration-300 ease-in-out hover:scale-105"
-            data-ai-hint={product.image.imageHint}
           />
         </div>
       </CardContent>

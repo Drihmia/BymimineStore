@@ -17,7 +17,6 @@ const HeroSection = () => {
           fill
           className="object-cover"
           priority
-          data-ai-hint={heroImage.imageHint}
         />
       )}
       <div className="absolute inset-0 bg-black/50" />
