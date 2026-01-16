@@ -1,0 +1,39 @@
+
+{
+  "brandName": "Bymiminestore",
+  "slogan": "Fait main avec passion 🤍",
+  "nav": {
+    "home": "Accueil",
+    "language": "Langue",
+    "languages": {
+        "en": "Anglais",
+        "fr": "Français",
+        "ar": "Arabe"
+    }
+  },
+  "hero": {
+    "title": "L'art du crochet, maillé avec amour"
+  },
+  "gallery": {
+    "headline": "Créations uniques en crochet",
+    "subheadline": "Fait main pour petits et grands",
+    "cta": "Voir sur Instagram",
+    "clothing": "Vêtements",
+    "baby": "Bébé",
+    "accessories": "Accessoires",
+    "cardigan": "Kabots",
+    "adultKidWear": "Vêtements pour adultes/enfants",
+    "babySets": "Ensembles pour bébés",
+    "toteBag": "Sacs tote",
+    "smallBag": "Petits Sacs",
+    "phonePouch": "Pochettes pour téléphone"
+  },
+  "social": {
+    "whatsapp": "Commander via WhatsApp",
+    "instagram": "Visitez notre Instagram",
+    "tiktok": "Suivez-nous sur TikTok"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 Bymiminestore. Tous droits réservés."
+  }
+}

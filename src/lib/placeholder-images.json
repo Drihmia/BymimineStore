@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A beautiful crochet piece in a cozy setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1700170928599-d7fc2d4ec97f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcm9jaGV0JTIwZGV0YWlsfGVufDB8fHx8MTc2ODU5OTAxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet detail"
+    },
+    {
+      "id": "cardigan",
+      "description": "A handmade crochet cardigan.",
+      "imageUrl": "https://images.unsplash.com/photo-1737056207688-acc991990309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcm9jaGV0JTIwY2FyZGlnYW58ZW58MHx8fHwxNzY4NTk5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet cardigan"
+    },
+    {
+      "id": "adult-wear",
+      "description": "Stylish crochet clothing for adults.",
+      "imageUrl": "https://images.unsplash.com/photo-1767249631933-4d711b0eb7b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcm9jaGV0JTIwdG9wfGVufDB8fHx8MTc2ODQ5NzY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet top"
+    },
+    {
+      "id": "baby-set-1",
+      "description": "A cute crochet set for babies.",
+      "imageUrl": "https://images.unsplash.com/photo-1675269605936-d57a395a23b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3JvY2hldCUyMGJhYnl8ZW58MHx8fHwxNzY4NTk5MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet baby"
+    },
+    {
+      "id": "baby-set-2",
+      "description": "Another adorable crochet set for babies.",
+      "imageUrl": "https://images.unsplash.com/photo-1578302663961-32a9ab587a3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcm9jaGV0JTIwYm9vdGllc3xlbnwwfHx8fDE3Njg1OTkwMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet booties"
+    },
+    {
+      "id": "tote-bag",
+      "description": "A spacious crochet tote bag.",
+      "imageUrl": "https://images.unsplash.com/photo-1759544632264-a31a9ff1e60b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcm9jaGV0JTIwYmFnfGVufDB8fHx8MTc2ODU5OTAxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet bag"
+    },
+    {
+      "id": "small-bag",
+      "description": "A small and elegant crochet bag.",
+      "imageUrl": "https://images.unsplash.com/photo-1651328907620-bb47ff23e251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjcm9jaGV0JTIwcHVyc2V8ZW58MHx8fHwxNzY4NTk5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet purse"
+    },
+    {
+      "id": "phone-pouch",
+      "description": "A stylish crochet pouch for a phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1722322498026-ad9456b937d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcm9jaGV0JTIwcG91Y2h8ZW58MHx8fHwxNzY4NTk5MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crochet pouch"
+    }
+  ]
 }

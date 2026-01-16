@@ -1,0 +1,39 @@
+
+{
+  "brandName": "Bymiminestore",
+  "slogan": "Handmade with passion 🤍",
+  "nav": {
+    "home": "Home",
+    "language": "Language",
+    "languages": {
+        "en": "English",
+        "fr": "French",
+        "ar": "Arabic"
+    }
+  },
+  "hero": {
+    "title": "The art of crochet, woven with love"
+  },
+  "gallery": {
+    "headline": "Unique crochet creations",
+    "subheadline": "Handmade for all ages",
+    "cta": "See on Instagram",
+    "clothing": "Clothing",
+    "baby": "Baby",
+    "accessories": "Accessories",
+    "cardigan": "Cardigans",
+    "adultKidWear": "Adult & Kid's Wear",
+    "babySets": "Baby Sets",
+    "toteBag": "Tote Bags",
+    "smallBag": "Small Bags",
+    "phonePouch": "Phone Pouches"
+  },
+  "social": {
+    "whatsapp": "Order via WhatsApp",
+    "instagram": "Visit our Instagram",
+    "tiktok": "Follow us on TikTok"
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 Bymiminestore. All rights reserved."
+  }
+}
