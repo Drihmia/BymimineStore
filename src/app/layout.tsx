@@ -8,9 +8,40 @@ import Footer from '@/components/layout/footer';
 import WhatsAppFAB from '@/components/whatsapp-fab';
 import { TooltipProvider } from '@/components/ui/tooltip';
 
+const siteUrl = 'https://bymiminestore.com';
+
 export const metadata: Metadata = {
-  title: 'Bymiminestore - Modern Crochet Boutique',
-  description: 'Handmade crochet creations, woven with love.',
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: 'Bymiminestore - Modern Crochet Boutique',
+    template: `%s | Bymiminestore`,
+  },
+  description: 'Discover unique, handmade crochet creations, from clothing to accessories. Woven with love by Bymiminestore.',
+  keywords: ['crochet', 'handmade', 'bymiminestore', 'crochet clothing', 'crochet accessories', 'maroc', 'morocco', 'fait main'],
+  openGraph: {
+    title: 'Bymiminestore - Modern Crochet Boutique',
+    description: 'Discover unique, handmade crochet creations, from clothing to accessories. Woven with love by Bymiminestore.',
+    url: siteUrl,
+    siteName: 'Bymiminestore',
+    locale: 'fr_MA',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Bymiminestore - Modern Crochet Boutique',
+    description: 'Discover unique, handmade crochet creations, from clothing to accessories. Woven with love by Bymiminestore.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({
