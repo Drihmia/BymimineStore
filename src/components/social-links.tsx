@@ -13,7 +13,7 @@ const SocialLinks = () => {
       <Tooltip>
         <TooltipTrigger asChild>
           <Button variant="ghost" size="icon" asChild>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label={translations.social.instagram}>
+            <a href="https://www.instagram.com/bymiminestore1/" target="_blank" rel="noopener noreferrer" aria-label={translations.social.instagram}>
               <Instagram className="h-5 w-5" />
             </a>
           </Button>
@@ -25,7 +25,7 @@ const SocialLinks = () => {
       <Tooltip>
         <TooltipTrigger asChild>
           <Button variant="ghost" size="icon" asChild>
-            <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer" aria-label={translations.social.tiktok}>
+            <a href="https://www.tiktok.com/@bymiminestore1" target="_blank" rel="noopener noreferrer" aria-label={translations.social.tiktok}>
               <TikTokIcon className="h-5 w-5" />
             </a>
           </Button>

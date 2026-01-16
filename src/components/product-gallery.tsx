@@ -63,7 +63,7 @@ const ProductGallery = () => {
         
         <div className="text-center mt-16">
             <Button size="lg" asChild className="bg-accent hover:bg-accent/80 text-accent-foreground">
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/bymiminestore1/" target="_blank" rel="noopener noreferrer">
                     {translations.gallery.cta}
                 </a>
             </Button>
