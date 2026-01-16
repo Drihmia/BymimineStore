@@ -9,9 +9,8 @@ const WhatsAppFAB = () => {
   const { translations, language } = useLanguage();
   const fabPosition = language === 'ar' ? 'left-4' : 'right-4';
   
-  // A placeholder phone number
-  const whatsappNumber = "1234567890";
-  const whatsappMessage = "Hello! I would like to place an order.";
+  const whatsappNumber = "212781939612";
+  const whatsappMessage = translations.social.whatsappMessage || "Hello! I would like to place an order.";
 
   return (
     <div className={`fixed bottom-4 ${fabPosition} z-50`}>
