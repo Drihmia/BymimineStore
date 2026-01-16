@@ -6,6 +6,7 @@ import { LanguageProvider } from '@/contexts/language-context';
 import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 import WhatsAppFAB from '@/components/whatsapp-fab';
+import { TooltipProvider } from '@/components/ui/tooltip';
 
 export const metadata: Metadata = {
   title: 'Bymiminestore - Modern Crochet Boutique',
@@ -26,13 +27,15 @@ export default function RootLayout({
       </head>
       <body className={cn('font-body antialiased bg-background text-foreground min-h-screen')}>
         <LanguageProvider>
-          <div className="relative flex min-h-screen flex-col">
-            <Header />
-            <main className="flex-1">{children}</main>
-            <Footer />
-          </div>
-          <WhatsAppFAB />
-          <Toaster />
+          <TooltipProvider>
+            <div className="relative flex min-h-screen flex-col">
+              <Header />
+              <main className="flex-1">{children}</main>
+              <Footer />
+            </div>
+            <WhatsAppFAB />
+            <Toaster />
+          </TooltipProvider>
         </LanguageProvider>
       </body>
     </html>
